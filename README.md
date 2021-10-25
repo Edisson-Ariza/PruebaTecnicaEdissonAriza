@@ -7,7 +7,7 @@
 - Conectividad a internet (3G o Wifi).
 
 * Instalación
-- Descargue la aplicación en el teléfono en el siguiente enlace:
+- Descargue la aplicación en el teléfono desde siguiente enlace: https://drive.google.com/file/d/1nkk6nwOKHJva-yOKREy3xDgLuHs37kAy/view?usp=sharing
 - La instalación de la misma se debe realizar de manera manual abriendo el archivo APK descargado.
 - Acepte los permisos y seleccione "Instalar de todas formas".
 
